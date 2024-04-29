@@ -474,3 +474,5 @@ nbsphinx_execute = 'always'
 towncrier_draft_autoversion_mode = "draft"
 towncrier_draft_include_empty = True
 towncrier_draft_working_directory = ".."
+
+issues_github_path = "QCoDeS/Qcodes"
