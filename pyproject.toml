@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "qcodes-jp"
+version = "0.1.0"
+description = ""
+authors = ["Kipra7 <124507187+Kipra7@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.9,<4"
+qcodes = ">=0.44.1"
+jupyter = "^1.0.0"
+lab = "^8.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
