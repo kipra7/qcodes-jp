@@ -20,7 +20,7 @@ build:
 
 python:
   install:
-    - requirements: requiremants.txt
+    - requirements: docs/requiremants.txt
 # Build documentation in the "docs/" directory with Sphin
 sphinx:
   configuration: docs/conf.py
